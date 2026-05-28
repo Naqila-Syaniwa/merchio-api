@@ -10,7 +10,7 @@
         "stock": 20,
         "sold_count": 100,
         "description": "Premium anime hoodie",
-        "image_url": "https://i.imgur.com/8Km9tLL.jpg",
+        "image_url": "https://raw.githubusercontent.com/Naqila-Syaniwa/merchio-api/main/images/products/gojo-hoodie.jpg",
         "is_paidpromote": 1
     },
     {
@@ -24,7 +24,7 @@
         "stock": 15,
         "sold_count": 70,
         "description": "Limited edition Naruto figure",
-        "image_url": "https://i.imgur.com/DvpvklR.png",
+        "image_url": "https://raw.githubusercontent.com/Naqila-Syaniwa/merchio-api/main/images/products/naruto-figure.jpg",
         "is_paidpromote": 0
     },
     {
@@ -38,7 +38,7 @@
         "stock": 50,
         "sold_count": 120,
         "description": "High quality poster",
-        "image_url": "https://i.imgur.com/tGbaZCY.jpg",
+        "image_url": "https://raw.githubusercontent.com/Naqila-Syaniwa/merchio-api/main/images/products/one-piece-poster.jpg",
         "is_paidpromote": 0
     }
 ]
