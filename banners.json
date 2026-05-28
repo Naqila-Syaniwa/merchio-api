@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "title": "Gojo Hoodie Promo",
+        "subtitle": "Best Seller",
+        "image_url": "https://i.imgur.com/0DElr0H.jpg",
+        "product_id": "1"
+    },
+    {
+        "id": 2,
+        "title": "Naruto Figure",
+        "subtitle": "Limited Edition",
+        "image_url": "https://i.imgur.com/tGbaZCY.jpg",
+        "product_id": "2"
+    }
+]

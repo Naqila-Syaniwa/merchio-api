@@ -1,0 +1,44 @@
+[
+    {
+        "id": "1",
+        "name": "Gojo Hoodie",
+        "category_id": "1",
+        "category_name": "Clothing",
+        "brand": "Merchio",
+        "type": "Hoodie",
+        "price": 250000,
+        "stock": 20,
+        "sold_count": 100,
+        "description": "Premium anime hoodie",
+        "image_url": "https://i.imgur.com/8Km9tLL.jpg",
+        "is_paidpromote": 1
+    },
+    {
+        "id": "2",
+        "name": "Naruto Figure",
+        "category_id": "2",
+        "category_name": "Figure",
+        "brand": "Merchio",
+        "type": "Figure",
+        "price": 350000,
+        "stock": 15,
+        "sold_count": 70,
+        "description": "Limited edition Naruto figure",
+        "image_url": "https://i.imgur.com/DvpvklR.png",
+        "is_paidpromote": 0
+    },
+    {
+        "id": "3",
+        "name": "One Piece Poster",
+        "category_id": "3",
+        "category_name": "Poster",
+        "brand": "Merchio",
+        "type": "Poster",
+        "price": 50000,
+        "stock": 50,
+        "sold_count": 120,
+        "description": "High quality poster",
+        "image_url": "https://i.imgur.com/tGbaZCY.jpg",
+        "is_paidpromote": 0
+    }
+]

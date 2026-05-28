@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "name": "Clothing",
+        "icon_url": "https://cdn-icons-png.flaticon.com/512/892/892458.png"
+    },
+    {
+        "id": 2,
+        "name": "Figure",
+        "icon_url": "https://cdn-icons-png.flaticon.com/512/3082/3082037.png"
+    },
+    {
+        "id": 3,
+        "name": "Poster",
+        "icon_url": "https://cdn-icons-png.flaticon.com/512/3135/3135715.png"
+    }
+]
