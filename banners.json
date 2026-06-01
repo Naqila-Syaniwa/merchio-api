@@ -1,16 +1,16 @@
 [
     {
         "id": 1,
-        "title": "Gojo Hoodie Promo",
-        "subtitle": "Best Seller",
-        "image_url": "https://raw.githubusercontent.com/Naqila-Syaniwa/merchio-api/main/images/products/gojo-hoodie.jpg",
-        "product_id": "1"
+        "title": "Best Seller",
+        "subtitle": "Produk paling laris minggu ini",
+        "image_url": "...",
+        "type": "best_seller"
     },
     {
         "id": 2,
-        "title": "Naruto Figure",
-        "subtitle": "Limited Edition",
-        "image_url": "https://raw.githubusercontent.com/Naqila-Syaniwa/merchio-api/main/images/products/naruto-figure.jpg",
-        "product_id": "2"
+        "title": "Limited Edition",
+        "subtitle": "Stok hampir habis",
+        "image_url": "...",
+        "type": "limited"
     }
 ]
