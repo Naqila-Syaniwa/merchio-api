@@ -13,5 +13,15 @@
         "id": 3,
         "name": "Poster",
         "icon_url": "https://cdn-icons-png.flaticon.com/512/3135/3135715.png"
+    },
+    {
+        "id": 4,
+        "name": "Accessory",
+        "icon_url": "https://cdn-icons-png.flaticon.com/512/1077/1077114.png"
+    },
+    {
+        "id": 5,
+        "name": "Keychain",
+        "icon_url": "https://cdn-icons-png.flaticon.com/512/2933/2933245.png"
     }
 ]

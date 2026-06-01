@@ -3,14 +3,14 @@
         "id": 1,
         "title": "Gojo Hoodie Promo",
         "subtitle": "Best Seller",
-        "image_url": "https://i.imgur.com/0DElr0H.jpg",
+        "image_url": "https://raw.githubusercontent.com/Naqila-Syaniwa/merchio-api/main/images/products/gojo-hoodie.jpg",
         "product_id": "1"
     },
     {
         "id": 2,
         "title": "Naruto Figure",
         "subtitle": "Limited Edition",
-        "image_url": "https://i.imgur.com/tGbaZCY.jpg",
+        "image_url": "https://raw.githubusercontent.com/Naqila-Syaniwa/merchio-api/main/images/products/naruto-figure.jpg",
         "product_id": "2"
     }
 ]
