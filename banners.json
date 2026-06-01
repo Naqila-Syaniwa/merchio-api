@@ -3,14 +3,14 @@
         "id": 1,
         "title": "Best Seller",
         "subtitle": "Produk paling laris minggu ini",
-        "image_url": "...",
+        "image_url": "",
         "type": "best_seller"
     },
     {
         "id": 2,
         "title": "Limited Edition",
         "subtitle": "Stok hampir habis",
-        "image_url": "...",
+        "image_url": "",
         "type": "limited"
     }
 ]
