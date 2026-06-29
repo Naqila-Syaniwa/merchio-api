@@ -2,26 +2,26 @@
     {
         "id": 1,
         "name": "Clothing",
-        "icon_url": "https://cdn-icons-png.flaticon.com/512/892/892458.png"
+        "icon_url": "https://raw.githubusercontent.com/Naqila-Syaniwa/merchio-api/main/images/icons/ic-clothing.png"
     },
     {
         "id": 2,
         "name": "Figure",
-        "icon_url": "https://cdn-icons-png.flaticon.com/512/3082/3082037.png"
+        "icon_url": "https://raw.githubusercontent.com/Naqila-Syaniwa/merchio-api/main/images/icons/ic-figure.png"
     },
     {
         "id": 3,
         "name": "Poster",
-        "icon_url": "https://cdn-icons-png.flaticon.com/512/3135/3135715.png"
+        "icon_url": "https://raw.githubusercontent.com/Naqila-Syaniwa/merchio-api/main/images/icons/ic-poster.png"
     },
     {
         "id": 4,
         "name": "Accessory",
-        "icon_url": "https://cdn-icons-png.flaticon.com/512/1077/1077114.png"
+        "icon_url": "https://raw.githubusercontent.com/Naqila-Syaniwa/merchio-api/main/images/icons/ic-accessory.png"
     },
     {
         "id": 5,
         "name": "Keychain",
-        "icon_url": "https://cdn-icons-png.flaticon.com/512/2933/2933245.png"
+        "icon_url": "https://raw.githubusercontent.com/Naqila-Syaniwa/merchio-api/main/images/icons/ic-keychain.png"
     }
 ]
